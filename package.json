@@ -1,0 +1,23 @@
+{
+  "name": "e2e-wph-sel-js",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u00002\u0000e\u0000-\u0000W\u0000P\u0000H\u0000-\u0000S\u0000E\u0000L\u0000-\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "main": "Test.js",
+  "scripts": {
+    "start": "NODE_ENV=production node ./app",
+    "test": "mocha test.js --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HienLV97/e2e-WPH-SEL-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HienLV97/e2e-WPH-SEL-JS/issues"
+  },
+  "homepage": "https://github.com/HienLV97/e2e-WPH-SEL-JS#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
